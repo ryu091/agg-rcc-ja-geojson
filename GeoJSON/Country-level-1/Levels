@@ -1,0 +1,19 @@
+Level 0: Country borders
+Level 1: States/Provinces
+Level 2: Counties/Districts (where available)
+
+| Level | Name Type         | Example             |
+| ----- | ----------------- | ------------------- |
+| ADM0  | Country           | India               |
+| ADM1  | State             | Maharashtra         |
+| ADM2  | District          | Pune                |
+| ADM3  | Tehsil            | Haveli              |
+| ADM4  | Block (sometimes) | Koregaon Park Block |
+
+| Level | Name Type    | Example         |
+| ----- | ------------ | --------------- |
+| ADM0  | Country      | Philippines     |
+| ADM1  | Region       | Central Visayas |
+| ADM2  | Province     | Cebu            |
+| ADM3  | Municipality | Lapu-Lapu City  |
+| ADM4  | Barangay     | Barangay Pajo   |
